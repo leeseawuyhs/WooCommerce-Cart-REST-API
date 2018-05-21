@@ -4,7 +4,7 @@
  * Plugin Name: ISOVN - WooCommerce Cart REST-API
  * Plugin URI: http://isovn.net
  * Description: Plugin providing additional REST-API endpoints for WooCommerce to enable the ability to add items, view items, update items and delete items from the cart. Required active Woocommerce plugin
- * Author: Leeseawuyhs
+ * Author: vinhle
  * Author URI: http://isovn.net
  * Version: 1.0
  * License:           GPL-2.0+
